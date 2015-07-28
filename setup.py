@@ -29,7 +29,7 @@ setup(
     ],
 
 
-    install_requires = ['clime>=0.2'],
+    install_requires = ['clime>=0.2', 'prettytable'],
     py_modules = ['gitcount'],
 
     entry_points = {
